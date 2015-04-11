@@ -1,0 +1,5 @@
+/Users/norihirosunada/Documents/AndroidstudioProjects/hideandseek1/app/build/intermediates/classes/debug
+/Users/norihirosunada/Documents/AndroidstudioProjects/hideandseek1/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-111a5cf02891304bd5e323d381a5bb6759da2dec.jar
+/Users/norihirosunada/Documents/AndroidstudioProjects/hideandseek1/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-042b0d3b6076e570dafa7921a47c0a983ff5c1d6.jar
+/Users/norihirosunada/Documents/AndroidstudioProjects/hideandseek1/app/build/intermediates/pre-dexed/debug/classes-1d890c180bb4e3a1301b180c4aad00ccb73b95be.jar
+/Users/norihirosunada/Documents/AndroidstudioProjects/hideandseek1/app/build/intermediates/pre-dexed/debug/classes-47d3af140017dfe19d0032680664b852043f1a88.jar
